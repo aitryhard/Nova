@@ -1,0 +1,29 @@
+.black-line-top {
+    background-color: black;
+    opacity: 60%;
+    width: auto;
+    height: 25px;
+    margin-bottom: 845px;
+}
+
+.black-line-bottom {
+    background-color: black;
+    opacity: 60%;
+    width: auto;
+    height: 99px;
+}
+
+.main-mascoute-img {
+    margin-bottom: -99px;
+}
+
+.main-page {
+    margin-top: 125px;
+}
+
+.main {
+    background-image: url(/img/main/all.png);
+    height: 1030px;
+    background-size: cover;
+    width: 100%;
+}
